@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.security_btn {
+  margin-top: 0;
+  font-size: 14px;
+  border: 2px solid #87bcef;
+  padding: 0px 39px;
+  border-radius: 45px;
+  box-shadow: none;
+  color: #fff;
+  }
