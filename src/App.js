@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="App">
             <OnepageMenu slogo="sticky_logo" mClass="menu_four" nClass="w_menu" hbtnClass="btn_get_radious menu_custfive"/>
-              <div className="App-header">
-                  
+              <header className="App-header">
 
-              </div>
+
+              </header>
 
 
        
